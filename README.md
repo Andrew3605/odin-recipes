@@ -1,0 +1,2 @@
+# Odin Recipes
+im currenly in the foundation of learning coding or creating a projetc...my final goal for this odin project is to create my own booking application or booking application website(for hotel,service,hospital, it can be vary), and i probably need to create more project that need more complexity, so i may update my booking app or expand it
